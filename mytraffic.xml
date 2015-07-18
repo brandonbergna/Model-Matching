@@ -1842,7 +1842,10 @@
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="AT43" ModelName="ATR42-MyPaint42" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B733" ModelName="B733 NYPAINT40" />
   <ModelMatchRule CallsignPrefix="ROT" TypeCode="B737" ModelName="Boeing 737 NyPaint24" />
-  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="E170-MyPaint09//E170-MyPaint10//E175-MyPaint07" />
+ 
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="E170" ModelName="E170-MyPaint21//E175-MyPaint07" />
+  <ModelMatchRule CallsignPrefix="RPA" TypeCode="DH8D" ModelName="Dash 8-400_MYPAINT10" />
+ 
   <ModelMatchRule CallsignPrefix="RPB" TypeCode="DC93" ModelName="DC9-MyPaint31" />
   <ModelMatchRule CallsignPrefix="RPB" TypeCode="E190" ModelName="E190-MyPaint02" />
   <ModelMatchRule CallsignPrefix="RSJ" TypeCode="YK42" ModelName="Yak42-MyPaint20" />
