@@ -23,5 +23,11 @@
   <ModelMatchRule TypeCode="F4" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" /> 
   <ModelMatchRule TypeCode="F5" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" /> 
   
+  <!-- EC3 -->
+  <ModelMatchRule TypeCode="E3C" ModelName="Boeing/USAF E-3c-Sentry" />
+  <ModelMatchRule TypeCode="E3CF" ModelName="Boeing/USAF E-3c-Sentry" />
+  <ModelMatchRule TypeCode="E3TC" ModelName="Boeing/USAF E-3c-Sentry" />
+  <!-- END EC3 -->
+
   
 </ModelMatchRuleSet>
