@@ -23,11 +23,12 @@
   <ModelMatchRule TypeCode="F4" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" /> 
   <ModelMatchRule TypeCode="F5" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" /> 
   
-  <!-- EC3 -->
-  <ModelMatchRule TypeCode="E3C" ModelName="Boeing/USAF E-3c-Sentry" />
-  <ModelMatchRule TypeCode="E3CF" ModelName="Boeing/USAF E-3c-Sentry" />
-  <ModelMatchRule TypeCode="E3TC" ModelName="Boeing/USAF E-3c-Sentry" />
-  <!-- END EC3 -->
-
+  <!-- KC-135 -->
+  <ModelMatchRule TypeCode="KC135" ModelName="HJG KC-135R USAF 100th ARW 2005//Boeing/USAF KC-135R 57-1483//Boeing/USAF KC-135R 3529//HJG USAF KC-135R 8035" /> 
+  <ModelMatchRule TypeCode="K35A" ModelName="HJG KC-135R USAF 100th ARW 2005//Boeing/USAF KC-135R 57-1483//Boeing/USAF KC-135R 3529//HJG USAF KC-135R 8035" /> 
+  <ModelMatchRule TypeCode="K35E" ModelName="HJG KC-135R USAF 100th ARW 2005//Boeing/USAF KC-135R 57-1483//Boeing/USAF KC-135R 3529//HJG USAF KC-135R 8035" /> 
+  <ModelMatchRule TypeCode="K35R" ModelName="HJG KC-135R USAF 100th ARW 2005//Boeing/USAF KC-135R 57-1483//Boeing/USAF KC-135R 3529//HJG USAF KC-135R 8035" /> 
+  <ModelMatchRule TypeCode="K135" ModelName="HJG KC-135R USAF 100th ARW 2005//Boeing/USAF KC-135R 57-1483//Boeing/USAF KC-135R 3529//HJG USAF KC-135R 8035" /> 
+  
   
 </ModelMatchRuleSet>
